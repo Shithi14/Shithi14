@@ -36,6 +36,7 @@ Here are some ideas to get you started:
 
 <summary>⚡️ Recent GitHub Activity</summary>
 <br/>
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Shithi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shithi14&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Shithi14/github-readme-activity-graph"><img alt="Shithi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shithi14&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 <br/>
+
 
