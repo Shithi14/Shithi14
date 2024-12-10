@@ -36,14 +36,14 @@ Software enthusiast with a passion for Java, Python, and machine learning. Curre
 ---
 
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 <details open> <summary>💻 **GitHub Profile Stats**</summary> <br/> <p align="center"> <a href="https://github.com/Shithi14"> <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> </a> </p> </details>
 
 
 ---
 
 
-🌍 Top Languages
+## 🌍 Top Languages
 <details open> <summary>📚 **Languages Used**</summary> <br/> <p align="center"> <a href="https://github.com/Shithi14"> <img alt="Shithi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> </a> </p> </details>
 
 ---
