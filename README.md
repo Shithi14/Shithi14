@@ -33,12 +33,18 @@ Software enthusiast with a passion for Java, Python, and machine learning. Curre
 
 
 
+
+
 ## 🏆 GitHub Achievements
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Shithi14&theme=gruvbox&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
 
+
+
+
 ---
+
 
 
 
