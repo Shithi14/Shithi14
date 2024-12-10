@@ -4,18 +4,19 @@
 <h1>Shithi</h1>
 
 ---
+
 ![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 
 Software enthusiast with a passion for Java, Python, and machine learning. Currently working on object detection projects and exploring AI-driven solutions.
 
 
-Skills: C/C++/PYTHON/JAVA
+## 💡 **Skills & Expertise**:
+- **C/C++**: Crafting efficient, high-performance systems.
+- **Python**: Mastering automation, data science, and AI applications.
+- **Java**: Developing scalable, enterprise-grade solutions.
 
-
-- 🔭 I’m currently working on this page. 
-- 🌱 I’m currently learning JAVA 
-- 👯 I’m looking to collaborate on github 
+---
 
 
 
@@ -92,6 +93,18 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 📧 Email: cse12105009brur@gmail.com
 
 💬 Feel free to reach out for collaboration opportunities!
+
+
+---
+
+## 💡 Technologies & Tools I Use
+<p align="center">
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23F8B40A.svg?&style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 
 
