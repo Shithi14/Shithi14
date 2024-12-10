@@ -16,6 +16,8 @@ Software enthusiast with a passion for Java, Python, and machine learning. Curre
 - **Python**: Mastering automation, data science, and AI applications.
 - **Java**: Developing scalable, enterprise-grade solutions.
 
+  
+
 ---
 
 
@@ -29,15 +31,20 @@ Software enthusiast with a passion for Java, Python, and machine learning. Curre
 
 ---
 
+
+
 ## 🏆 GitHub Achievements
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Shithi14&theme=gruvbox&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+
 ---
+
 
 
 ## 📊 GitHub Stats
 <details open> <summary>💻 **GitHub Profile Stats**</summary> <br/> <p align="center"> <a href="https://github.com/Shithi14"> <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> </a> </p> </details>
+
 
 
 ---
