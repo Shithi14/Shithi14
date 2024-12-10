@@ -5,6 +5,8 @@
 
 ---
 ![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+https://raw.githubusercontent.com/keshavsingh4522/keshavsingh4522/master/assets/banner.gif
+
 
 Software enthusiast with a passion for Java, Python, and machine learning. Currently working on object detection projects and exploring AI-driven solutions.
 
