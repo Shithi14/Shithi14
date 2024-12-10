@@ -26,22 +26,42 @@ Skills: C/C++/PYTHON/JAVA
 
 
 
-## 📊 GitHub Stats
+---
+
+## 🏆 GitHub Achievements
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=Shithi14&theme=gruvbox&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
 
 
-<details open> 
-  <summary>💻 **GitHub Profile Stats**</summary> 
-  <br/>
-  <p align="center">
-    <a href="https://github.com/Shithi14">
-      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/>
-    </a>
-    <a href="https://github.com/Shithi14">
-      <img alt="Shithi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/>
-    </a>
-  </p>
-  <br/>
-</details>
+📊 GitHub Stats
+<details open> <summary>💻 **GitHub Profile Stats**</summary> <br/> <p align="center"> <a href="https://github.com/Shithi14"> <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> </a> </p> </details>
+
+
+---
+
+
+🌍 Top Languages
+<details open> <summary>📚 **Languages Used**</summary> <br/> <p align="center"> <a href="https://github.com/Shithi14"> <img alt="Shithi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> </a> </p> </details>
+
+---
+
+
+
+## 📚 Key Projects
+
+### 🔍 [Object Detection Project](https://github.com/Shithi14/Object-Detection)
+A cutting-edge object detection system built using **TensorFlow** and **Python**. Explore how AI can be used to detect and classify objects in real-time.
+
+### 🧠 [Machine Learning Models](https://github.com/Shithi14/Machine-Learning-Models)
+A collection of machine learning models covering **classification**, **regression**, and **reinforcement learning**.
+
+### 💻 [Java Algorithms](https://github.com/Shithi14/Java-Algorithms)
+A repository of commonly used algorithms in **Java** for efficient problem-solving.
+
+---
+
 
 <details open> 
   <summary>📌 **Profile Details**</summary> 
@@ -54,6 +74,9 @@ Skills: C/C++/PYTHON/JAVA
   <br/>
 </details>
 
+---
+
+
 <details open> 
   <summary>⚡️ **Recent GitHub Activity**</summary> 
   <br/>
@@ -64,3 +87,11 @@ Skills: C/C++/PYTHON/JAVA
   </p>
   <br/>
 </details>
+
+## 📞 Connect With Me
+📧 Email: cse12105009brur@gmail.com
+
+💬 Feel free to reach out for collaboration opportunities!
+
+
+
