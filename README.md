@@ -1,70 +1,67 @@
 ### Hi there 👋, I'm Shithi
-####  🌟***Programmer | Innovator ***
-
+#### 🌟***Programmer | Innovator***
 
 <h1>Shithi Rani Roy</h1>
-
-
 
 ---
 
 ![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-
 Software enthusiast with a passion for Java, Python, and machine learning. Currently working on object detection projects and exploring AI-driven solutions.
 
+---
 
 ## 💡 **Skills & Expertise**:
 - **C/C++**: Crafting efficient, high-performance systems.
 - **Python**: Mastering automation, data science, and AI applications.
 - **Java**: Developing scalable, enterprise-grade solutions.
 
-  
+---
+
+## 🔗 Social Links
+
+[![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Shithi14)  
 
 ---
 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/Shithi14)  
-
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
-
-
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  
+<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  
+<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  
+<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
 
 ---
-
-
-
-
 
 ## 🏆 GitHub Achievements
 
 [![Trophy](https://github-profile-trophy.vercel.app/?username=Shithi14&theme=gruvbox&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-
-
-
-
 ---
-
-
-
 
 ## 📊 GitHub Stats
-<details open> <summary>💻 **GitHub Profile Stats**</summary> <br/> <p align="center"> <a href="https://github.com/Shithi14"> <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> </a> </p> </details>
-
-
+<details open> 
+  <summary>💻 **GitHub Profile Stats**</summary> 
+  <br/> 
+  <p align="center"> 
+    <a href="https://github.com/Shithi14"> 
+      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> 
+    </a> 
+  </p> 
+</details>
 
 ---
 
-
-## 🌍 Top Languages
-<details open> <summary>📚 **Languages Used**</summary> <br/> <p align="center"> <a href="https://github.com/Shithi14"> <img alt="Shithi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> </a> </p> </details>
+## 🌐 Top Languages
+<details open> 
+  <summary>📚 **Languages Used**</summary> 
+  <br/> 
+  <p align="center"> 
+    <a href="https://github.com/Shithi14"> 
+      <img alt="Shithi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> 
+    </a> 
+  </p> 
+</details>
 
 ---
-
-
 
 ## 📚 Key Projects
 
@@ -79,7 +76,6 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ---
 
-
 <details open> 
   <summary>📌 **Profile Details**</summary> 
   <br/>
@@ -93,7 +89,6 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ---
 
-
 <details open> 
   <summary>⚡️ **Recent GitHub Activity**</summary> 
   <br/>
@@ -105,12 +100,12 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
   <br/>
 </details>
 
+---
 
-## 📞 Connect With Me
-📧 Email: cse12105009brur@gmail.com
+## 📢 Connect With Me
 
-💬 Feel free to reach out for collaboration opportunities!
-
+- 📧 Email: [cse12105009brur@gmail.com](mailto:cse12105009brur@gmail.com)
+- 💬 Feel free to reach out for collaboration opportunities!
 
 ---
 
@@ -122,6 +117,3 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
-
-
-
