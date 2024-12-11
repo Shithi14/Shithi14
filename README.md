@@ -98,12 +98,13 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
   <summary>⚡️ **Recent GitHub Activity**</summary> 
   <br/>
   <p align="center">
-    <a href="https://github.com/Shithi14/github-readme-activity-graph">
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=Shithi14&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true">
       <img alt="Shithi's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=Shithi14&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true"/>
     </a>
   </p>
   <br/>
 </details>
+
 
 ## 📞 Connect With Me
 📧 Email: cse12105009brur@gmail.com
