@@ -1,43 +1,54 @@
 ### Hi there 👋, I'm Shithi
-#### 🌟***Programmer | Innovator***
 
-<h1>Shithi Rani Roy</h1>
+#### 🌟 ***Programmer | Innovator***
+
+<h1 align="center">Shithi Rani Roy</h1>
 
 ---
 
 ![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
-Software enthusiast with a passion for Java, Python, and machine learning. Currently working on object detection projects and exploring AI-driven solutions.
+<p align="center">Software enthusiast with a passion for Java, Python, and machine learning. Currently working on object detection projects and exploring AI-driven solutions.</p>
 
 ---
 
 ## 💡 **Skills & Expertise**:
+
 - **C/C++**: Crafting efficient, high-performance systems.
 - **Python**: Mastering automation, data science, and AI applications.
 - **Java**: Developing scalable, enterprise-grade solutions.
 
 ---
 
-## 🔗 Social Links
+## 🔗 **Social Links**
 
-[![GitHub](https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github&logoColor=white)](https://github.com/Shithi14)  
-
----
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>  
-<a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>  
-<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>  
-<a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+<p align="center">
+  <a href="https://github.com/Shithi14"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
-## 🏆 GitHub Achievements
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=Shithi14&theme=gruvbox&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a>
+  <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a>
+  <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+  <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a>
+</p>
 
 ---
 
-## 📊 GitHub Stats
+## 🏆 **GitHub Achievements**
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shithi14&theme=gruvbox&column=8" alt="GitHub Trophies">
+  </a>
+</p>
+
+---
+
+## 📊 **GitHub Stats**
+
 <details open> 
   <summary>💻 **GitHub Profile Stats**</summary> 
   <br/> 
@@ -50,7 +61,8 @@ Software enthusiast with a passion for Java, Python, and machine learning. Curre
 
 ---
 
-## 🌐 Top Languages
+## 🌐 **Top Languages**
+
 <details open> 
   <summary>📚 **Languages Used**</summary> 
   <br/> 
@@ -63,15 +75,18 @@ Software enthusiast with a passion for Java, Python, and machine learning. Curre
 
 ---
 
-## 📚 Key Projects
+## 📚 **Key Projects**
 
 ### 🔍 [Object Detection Project](https://github.com/Shithi14/Object-Detection)
+
 A cutting-edge object detection system built using **TensorFlow** and **Python**. Explore how AI can be used to detect and classify objects in real-time.
 
 ### 🧠 [Machine Learning Models](https://github.com/Shithi14/Machine-Learning-Models)
+
 A collection of machine learning models covering **classification**, **regression**, and **reinforcement learning**.
 
 ### 💻 [Java Algorithms](https://github.com/Shithi14/Java-Algorithms)
+
 A repository of commonly used algorithms in **Java** for efficient problem-solving.
 
 ---
@@ -102,14 +117,15 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ---
 
-## 📢 Connect With Me
+## 📢 **Connect With Me**
 
 - 📧 Email: [cse12105009brur@gmail.com](mailto:cse12105009brur@gmail.com)
 - 💬 Feel free to reach out for collaboration opportunities!
 
 ---
 
-## 💡 Technologies & Tools I Use
+## 💡 **Technologies & Tools I Use**
+
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23F8B40A.svg?&style=for-the-badge&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
