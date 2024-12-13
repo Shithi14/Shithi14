@@ -129,13 +129,14 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 ## 💡 **Technologies & Tools I Use**
 
 <p align="center">
-  <img alt="Java" src="https://img.shields.io/badge/Java-%23F8B40A.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="AI" src="https://img.shields.io/badge/AI-%23007ACC.svg?&style=for-the-badge&logo=openai&logoColor=white" />
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23398D49.svg?&style=for-the-badge&logo=streamlit&logoColor=white" />
-  <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-%232D3748.svg?&style=for-the-badge&logo=python&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-%23F8B40A.svg?&style=for-the-badge&logo=java&logoColor=white&color=black" />
+  <img alt="Python" src="https://img.shields.io/badge/Python-%233776AB.svg?&style=for-the-badge&logo=python&logoColor=white&color=black" />
+  <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&logoColor=white&color=black" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white&color=black" />
+  <img alt="AI" src="https://img.shields.io/badge/AI-%23007ACC.svg?&style=for-the-badge&logo=openai&logoColor=white&color=black" />
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white&color=black" />
+  <img alt="Streamlit" src="https://img.shields.io/badge/Streamlit-%23398D49.svg?&style=for-the-badge&logo=streamlit&logoColor=white&color=black" />
+  <img alt="YOLOv8" src="https://img.shields.io/badge/YOLOv8-%232D3748.svg?&style=for-the-badge&logo=python&logoColor=white&color=black" />
 </p>
+
 
