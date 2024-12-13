@@ -64,7 +64,7 @@
 ## 🌐 **Top Languages**
 
 <details open> 
-  <summary>📚 **Languages Used**</summary> 
+  <summary>📝 **Languages Used**</summary> 
   <br/> 
   <p align="center"> 
     <a href="https://github.com/Shithi14"> 
