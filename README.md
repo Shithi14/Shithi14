@@ -119,8 +119,10 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ## 📢 **Connect With Me**
 
+
 - 📧 Email: [cse12105009brur@gmail.com](mailto:cse12105009brur@gmail.com)
 - 💬 Feel free to reach out for collaboration opportunities!
+
 
 ---
 
@@ -133,3 +135,5 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
   <img alt="Machine Learning" src="https://img.shields.io/badge/Machine_Learning-%23007ACC.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+---
