@@ -126,10 +126,13 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ---
 
-## 🌐 **Useful Resources** 
+## 🌐 **Useful Resources**
 
 <div style="background-color:#4CAF50; padding: 10px; border-radius: 5px;">
-  - [Explore my profile on Dimikoj](https://dimikoj.com/profile/o523?shithirani)
+  - [Explore my profile on Dimikoj](https://dimikoj.com/profile/o523?shithirani)  
+  - [Visit my CodeChef profile](https://www.codechef.com/users/cse12105009bru)  
+  - [Check out my Codeforces profile](https://codeforces.com/profile/SHITHIROY)  
+  - [View my GeeksforGeeks profile](https://www.geeksforgeeks.org/user/neelambaufmy/)
 </div>
 
 
