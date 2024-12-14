@@ -126,6 +126,14 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ---
 
+## 🌐 **Useful Resources**
+
+<div style="background-color:#f0f0f0; padding: 10px; border-radius: 5px;">
+  - [Click here to visit Dimikoj's guide](https://dimikoj.com/how)
+</div>
+
+---
+
 ## 💡 **Technologies & Tools I Use**
 
 <p align="center">
