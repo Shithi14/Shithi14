@@ -131,7 +131,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 ## 🌐 **Useful Resources**
 
 <div style="background-color:#4CAF50; padding: 10px; border-radius: 5px;">
-  - <a href="https://www.codechef.com/users/cse12105009bru">
+  - <a href="https://www.codechef.com/users/shithiraniroy">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/CodeChef_logo.png" alt="CodeChef" style="height:20px; vertical-align:middle;"/> Visit my CodeChef profile
   </a> <br>  
   - <a href="https://codeforces.com/profile/SHITHIROY">
@@ -144,8 +144,6 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/GeeksforGeeks_logo.svg" alt="GeeksforGeeks" style="height:20px; vertical-align:middle;"/> View my GeeksforGeeks profile
   </a> <br>
 </div>
-
-
 
 
 
