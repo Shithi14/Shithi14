@@ -125,14 +125,26 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 
 ---
+
+
+
 ## 🌐 **Useful Resources**
 
 <div style="background-color:#4CAF50; padding: 10px; border-radius: 5px;">
-  - [Visit my CodeChef profile](https://www.codechef.com/users/cse12105009bru) <br>  
-  - [Check out my Codeforces profile](https://codeforces.com/profile/SHITHIROY) <br>  
-  - [Explore my profile on Dimikoj](https://dimikoj.com/profile/o523?shithirani) <br>  
-  - [View my GeeksforGeeks profile](https://www.geeksforgeeks.org/user/neelambaufmy/) <br>
+  - <a href="https://www.codechef.com/users/cse12105009bru">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/CodeChef_logo.png" alt="CodeChef" style="height:20px; vertical-align:middle;"/> Visit my CodeChef profile
+  </a> <br>  
+  - <a href="https://codeforces.com/profile/SHITHIROY">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Codeforces_logo.svg" alt="Codeforces" style="height:20px; vertical-align:middle;"/> Check out my Codeforces profile
+  </a> <br>  
+  - <a href="https://dimikoj.com/profile/o523?shithirani">
+    <img src="https://dimikoj.com/favicon.ico" alt="Dimikoj" style="height:20px; vertical-align:middle;"/> Explore my profile on Dimikoj
+  </a> <br>  
+  - <a href="https://www.geeksforgeeks.org/user/neelambaufmy/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/GeeksforGeeks_logo.svg" alt="GeeksforGeeks" style="height:20px; vertical-align:middle;"/> View my GeeksforGeeks profile
+  </a> <br>
 </div>
+
 
 
 
