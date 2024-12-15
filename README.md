@@ -143,7 +143,11 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
   - <a href="https://www.geeksforgeeks.org/user/neelambaufmy/">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/GeeksforGeeks_logo.svg" alt="GeeksforGeeks" style="height:20px; vertical-align:middle; margin-right:8px;"/> View my GeeksforGeeks profile
   </a> <br>
+  - <a href="https://leetcode.com/u/ShithiRoy/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_2021.png" alt="LeetCode" style="height:20px; vertical-align:middle; margin-right:8px;"/> Visit my LeetCode profile
+  </a> <br>
 </div>
+
 
 
 
