@@ -135,35 +135,27 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
   <a href="https://www.codechef.com/users/shithiraniroy" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/CodeChef_logo.png" alt="CodeChef" style="height:30px; margin-right:10px;"/> Visit my CodeChef profile
   </a>
-  
+
   <a href="https://codeforces.com/profile/SHITHIROY" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Codeforces_logo.svg" alt="Codeforces" style="height:30px; margin-right:10px;"/> Check out my Codeforces profile
   </a>
-  
+
   <a href="https://dimikoj.com/profile/o523?shithirani" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
     <img src="https://dimikoj.com/favicon.ico" alt="Dimikoj" style="height:30px; margin-right:10px;"/> Explore my profile on Dimikoj
   </a>
-  
+
   <a href="https://www.geeksforgeeks.org/user/neelambaufmy/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/GeeksforGeeks_logo.svg" alt="GeeksforGeeks" style="height:30px; margin-right:10px;"/> View my GeeksforGeeks profile
   </a>
-  
+
   <a href="https://leetcode.com/u/ShithiRoy/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
     <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_2021.png" alt="LeetCode" style="height:30px; margin-right:10px;"/> Visit my LeetCode profile
   </a>
-  
-  <a href="https://judge.beecrowd.com/en/profile/820669" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
+
+  <a href="https://judge.beecrowd.com/en/profile/820669" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white;">
     <img src="https://judge.beecrowd.com/favicon.ico" alt="Beecrowd" style="height:30px; margin-right:10px;"/> Visit my Beecrowd profile
   </a>
-  
-  <a href="https://github.com/Shithi14" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white;">
-    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height:30px; margin-right:10px;"/> Explore my GitHub profile
-  </a>
 </div>
- 
-
-
-
 
 
 
