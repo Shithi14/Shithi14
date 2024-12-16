@@ -131,26 +131,36 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ## 🌐 **Useful Resources**
 
-[![CodeChef](https://upload.wikimedia.org/wikipedia/commons/0/0d/CodeChef_logo.png)](https://www.codechef.com/users/shithiraniroy)  
-**[Visit my CodeChef profile](https://www.codechef.com/users/shithiraniroy)**  
-
-[![Codeforces](https://upload.wikimedia.org/wikipedia/commons/0/0f/Codeforces_logo.svg)](https://codeforces.com/profile/SHITHIROY)  
-**[Check out my Codeforces profile](https://codeforces.com/profile/SHITHIROY)**  
-
-[![Dimikoj](https://dimikoj.com/favicon.ico)](https://dimikoj.com/profile/o523?shithirani)  
-**[Explore my profile on Dimikoj](https://dimikoj.com/profile/o523?shithirani)**  
-
-[![GeeksforGeeks](https://upload.wikimedia.org/wikipedia/commons/e/e3/GeeksforGeeks_logo.svg)](https://www.geeksforgeeks.org/user/neelambaufmy/)  
-**[View my GeeksforGeeks profile](https://www.geeksforgeeks.org/user/neelambaufmy/)**  
-
-[![LeetCode](https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_2021.png)](https://leetcode.com/u/ShithiRoy/)  
-**[Visit my LeetCode profile](https://leetcode.com/u/ShithiRoy/)**  
-
-[![Beecrowd](https://judge.beecrowd.com/favicon.ico)](https://judge.beecrowd.com/en/profile/820669)  
-**[Visit my Beecrowd profile](https://judge.beecrowd.com/en/profile/820669)**  
-
-[![GitHub](https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png)](https://github.com/Shithi14)  
-**[Explore my GitHub profile](https://github.com/Shithi14)**  
+<div style="background-color:#4CAF50; padding: 10px; border-radius: 5px; width: fit-content;">
+  <a href="https://www.codechef.com/users/shithiraniroy" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/CodeChef_logo.png" alt="CodeChef" style="height:30px; margin-right:10px;"/> Visit my CodeChef profile
+  </a>
+  
+  <a href="https://codeforces.com/profile/SHITHIROY" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0f/Codeforces_logo.svg" alt="Codeforces" style="height:30px; margin-right:10px;"/> Check out my Codeforces profile
+  </a>
+  
+  <a href="https://dimikoj.com/profile/o523?shithirani" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
+    <img src="https://dimikoj.com/favicon.ico" alt="Dimikoj" style="height:30px; margin-right:10px;"/> Explore my profile on Dimikoj
+  </a>
+  
+  <a href="https://www.geeksforgeeks.org/user/neelambaufmy/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/GeeksforGeeks_logo.svg" alt="GeeksforGeeks" style="height:30px; margin-right:10px;"/> View my GeeksforGeeks profile
+  </a>
+  
+  <a href="https://leetcode.com/u/ShithiRoy/" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ab/LeetCode_logo_2021.png" alt="LeetCode" style="height:30px; margin-right:10px;"/> Visit my LeetCode profile
+  </a>
+  
+  <a href="https://judge.beecrowd.com/en/profile/820669" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white; margin-bottom: 10px;">
+    <img src="https://judge.beecrowd.com/favicon.ico" alt="Beecrowd" style="height:30px; margin-right:10px;"/> Visit my Beecrowd profile
+  </a>
+  
+  <a href="https://github.com/Shithi14" target="_blank" style="display: flex; align-items: center; text-decoration: none; color: white;">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" style="height:30px; margin-right:10px;"/> Explore my GitHub profile
+  </a>
+</div>
+ 
 
 
 
