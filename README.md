@@ -70,6 +70,7 @@
 
 ---
 
+
 ## 🌐 **Top Languages**
 
 <details open> 
@@ -83,6 +84,7 @@
 </details>
 
 ---
+
 
 ## 📚 **Key Projects**
 
@@ -153,9 +155,6 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ---
 ---
-
-
-
 
 
 
