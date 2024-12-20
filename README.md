@@ -6,9 +6,13 @@
 
 ---
 
+
 ![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <p align="center">Software enthusiast with a passion for Java, Python, and machine learning. Currently working on object detection projects and exploring AI-driven solutions.</p>
+
+
+---
 
 ---
 
