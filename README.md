@@ -61,7 +61,7 @@
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shithi14&theme=matrix&column=3&margin-w=30&margin-h=30&bg_color=0d1117" alt="GitHub Trophies">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shithi14&theme=onestar&column=2&margin-w=40&margin-h=40&bg_color=000000" alt="GitHub Trophies">
   </a>
 </p>
 
