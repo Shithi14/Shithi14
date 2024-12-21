@@ -56,6 +56,17 @@
 </p>
 
 
+---
+## 🏆 **GitHub Achievements**
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Shithi14&theme=dracula&column=4&margin-w=20&margin-h=20&bg_color=212121" alt="GitHub Trophies">
+  </a>
+</p>
+
+
+
 
 ---
 
