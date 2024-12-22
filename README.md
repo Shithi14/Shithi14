@@ -117,6 +117,23 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
   <br/>
 </details>
 
+
+---
+
+<details open> 
+  <summary style="font-size: 1.5rem; color: #ff6347; font-weight: bold;">📌 **Profile Details**</summary> 
+  <br/>
+  <p align="center">
+    <a href="https://github.com/Shithi14">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shithi14&theme=2077" alt="Shithi's GitHub Contribution" style="border: 2px solid #ff6347; border-radius: 10px; box-shadow: 0px 4px 20px rgba(255, 99, 71, 0.8);"/>
+    </a>
+  </p>
+  <p align="center" style="font-size: 1.2rem; font-weight: bold; color: #4682b4;">
+    🌟 Follow me for updates and projects 🌟
+  </p>
+  <br/>
+</details>
+
 ---
 
 <details open> 
