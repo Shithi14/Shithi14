@@ -111,7 +111,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
   <br/>
   <p align="center">
     <a href="https://github.com/Shithi14">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shithi14&theme=tokyonight" alt="Shithi's GitHub Contribution"/>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shithi14&theme=2077" alt="Shithi's GitHub Contribution"/>
     </a>
   </p>
   <br/>
