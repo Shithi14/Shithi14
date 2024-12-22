@@ -104,6 +104,26 @@
   </p> 
 </details>
 
+
+---
+
+## 🌐 **Top Languages**
+
+<details open> 
+  <summary style="font-size: 1.5rem; color: #ff4500; font-weight: bold;">📝 **Languages Used**</summary> 
+  <br/> 
+  <p align="center"> 
+    <a href="https://github.com/Shithi14"> 
+      <img alt="Shithi's Top Languages" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=merko&hide_border=true&bg_color=0f0f0f&title_color=00ffcc&icon_color=ff7f50" 
+        height="192px" 
+        style="border-radius: 10px; border: 3px solid #00ffcc; box-shadow: 0px 4px 15px rgba(0, 255, 204, 0.4);"
+      /> 
+    </a> 
+  </p> 
+</details>
+
+
 ---
 
 
