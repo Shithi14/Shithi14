@@ -78,54 +78,6 @@
 ## 🌐 **Top Languages**
 
 <details open> 
-  <summary>📝 **Languages Used**</summary> 
-  <br/> 
-  <p align="center"> 
-    <a href="https://github.com/Shithi14"> 
-      <img alt="Shithi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> 
-    </a> 
-  </p> 
-</details>
-
----
-## 🌐 **Top Languages**
-
-<details open> 
-  <summary style="font-size: 1.5rem; color: #ff6347; font-weight: bold;">📝 **Languages Used**</summary> 
-  <br/> 
-  <p align="center"> 
-    <a href="https://github.com/Shithi14"> 
-      <img alt="Shithi's Top Languages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=radical&hide_border=true&bg_color=1c1f29&title_color=61dafb&icon_color=F8D866" 
-        height="192px" 
-        style="border-radius: 10px; border: 3px solid #61dafb; box-shadow: 0px 4px 15px rgba(97, 218, 251, 0.5);"
-      /> 
-    </a> 
-  </p> 
-</details>
-
----
-## 🌐 **Top Languages**
-
-<details open> 
-  <summary style="font-size: 2rem; color: #ff1493; font-weight: bold; text-shadow: 2px 2px 8px rgba(255, 20, 147, 0.7);">📝 **Languages Used**</summary> 
-  <br/> 
-  <p align="center"> 
-    <a href="https://github.com/Shithi14"> 
-      <img alt="Shithi's Top Languages" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shithi14&langs_count=8&layout=compact&theme=dracula&hide_border=true&bg_color=1a1a1a&title_color=ff1493&icon_color=ff6347" 
-        height="192px" 
-        style="border-radius: 12px; border: 4px solid #ff1493; box-shadow: 0px 4px 25px rgba(255, 20, 147, 0.6);"
-      /> 
-    </a> 
-  </p> 
-</details>
-
----
-
-## 🌐 **Top Languages**
-
-<details open> 
   <summary style="font-size: 1.5rem; color: #ff4500; font-weight: bold;">📝 **Languages Used**</summary> 
   <br/> 
   <p align="center"> 
