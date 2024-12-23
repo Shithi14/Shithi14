@@ -73,6 +73,30 @@
 </details>
 
 ---
+
+<details open> 
+  <summary>💻 **GitHub Profile Stats**</summary> 
+  <br/> 
+  <p align="center"> 
+    <a href="https://github.com/Shithi14"> 
+      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1e1e2f&title_color=ff69b4&icon_color=00fa9a" height="192px"/> 
+    </a> 
+  </p> 
+</details>
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
 <details open> 
   <summary>💻 **GitHub Profile Stats**</summary> 
   <br/> 
