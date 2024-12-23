@@ -67,25 +67,12 @@
   <br/> 
   <p align="center"> 
     <a href="https://github.com/Shithi14"> 
-      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="192px"/> 
+      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=F8D866" height="190px"/> 
     </a> 
   </p> 
 </details>
 
 ---
-
-<details open> 
-  <summary>💻 **GitHub Profile Stats**</summary> 
-  <br/> 
-  <p align="center"> 
-    <a href="https://github.com/Shithi14"> 
-      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=000000&title_color=ff4500&icon_color=32cd32" height="192px"/> 
-    </a> 
-  </p> 
-</details>
-
----
-
 
 ## 🌐 **Top Languages**
 
