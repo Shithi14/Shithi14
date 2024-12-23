@@ -74,50 +74,16 @@
 
 ---
 
-<details open> 
-  <summary>💻 **GitHub Profile Stats**</summary> 
-  <br/> 
-  <p align="center"> 
-    <a href="https://github.com/Shithi14"> 
-      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=radical&hide_border=true&bg_color=1e1e2f&title_color=ff69b4&icon_color=00fa9a" height="192px"/> 
-    </a> 
-  </p> 
-</details>
----
-
-
-
-
-
-
-
-
-
-
-
-
 
 <details open> 
   <summary>💻 **GitHub Profile Stats**</summary> 
   <br/> 
   <p align="center"> 
     <a href="https://github.com/Shithi14"> 
-      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1c1c1c&title_color=ff6347&icon_color=ffd700" height="192px"/> 
+      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=dark&hide_border=true&bg_color=1a1a2e&title_color=ff6347&icon_color=ffcc00" height="192px"/> 
     </a> 
   </p> 
 </details>
-
----
-<details open> 
-  <summary>💻 **GitHub Profile Stats**</summary> 
-  <br/> 
-  <p align="center"> 
-    <a href="https://github.com/Shithi14"> 
-      <img alt="Shithi's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&theme=gruvbox&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1" height="192px"/> 
-    </a> 
-  </p> 
-</details>
-
 ---
 
 
