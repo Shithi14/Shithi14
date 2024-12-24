@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Shithi  
 
-#### 🌟 ***Programmer | Innovator***
+#### 🌟 ***Programmer | Innovator*** 
 
 <h1 align="center">Shithi Rani Roy</h1>
 
