@@ -29,7 +29,47 @@
 
 
   ---
-
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>GitHub Streak</title>
+    <style>
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #141E30;
+            color: white;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            flex-direction: column;
+            height: 100vh;
+            margin: 0;
+        }
+        
+        h2 {
+            font-size: 36px;
+            color: #FFD700;
+            text-align: center;
+            margin-bottom: 20px;
+            text-shadow: 3px 3px 6px #FF4500;
+        }
+        
+        img {
+            width: 900px;
+            height: 400px;
+            object-fit: cover;
+            border: 2px solid #FF4500;
+        }
+    </style>
+</head>
+<body>
+    <h2>🌟 Exceptional GitHub Streak</h2>
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=Shithi14&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" />
+</body>
+</html>
+---
 ## 🔗 **Social Links**
 
 <p align="center">
