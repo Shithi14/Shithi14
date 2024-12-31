@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Shithi     
+# Hi there 👋, I'm Shithi      
 #### 🎓 **Student** at Begum Rokeya University, Rangpur.  
 ###### 🌟 ***Programmer | Innovator*** 
  
@@ -16,7 +16,7 @@
 
 
 
-## 💡 **Skills & Expertise**:
+## 💡 Skills & Expertise:
 
 - **C/C++**: Crafting efficient, high-performance systems.
 - **Python**: Mastering automation, data science, and AI applications.
@@ -24,14 +24,14 @@
 
 ---
 
-## 🌟 ** GitHub Streak **
+## 🌟  GitHub Streak 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shithi14&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
   <br/>
 
  ---
 
 
-### 🔗 **Social Links**
+### 🔗 Social Links
 
 <p align="center">
   <a href="https://github.com/Shithi14"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -48,7 +48,7 @@
 
 ---
 
-## 🏆 **GitHub Achievements**
+## 🏆 GitHub Achievements
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -60,7 +60,7 @@
 ---
 
 
-## 📊 **GitHub Stats**
+## 📊 GitHub Stats
 
 <details open> 
   <summary>💻 **GitHub Profile Stats**</summary> 
@@ -74,7 +74,7 @@
 
 ---
 
-## 🌐 **Top Languages**
+## 🌐 Top Languages
 
 <details open> 
   <summary style="font-size: 1.5rem; color: #ff4500; font-weight: bold;">📝 **Languages Used**</summary> 
@@ -94,7 +94,7 @@
 ---
 
 
-## 📚 **Key Projects**
+## 📚 Key Projects
 
 ### 🔍 [Object Detection Project](https://github.com/Shithi14/Object-Detection)
 
