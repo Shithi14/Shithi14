@@ -31,7 +31,7 @@
  ---
 
 
-## 🔗 **Social Links**
+### 🔗 **Social Links**
 
 <p align="center">
   <a href="https://github.com/Shithi14"><img src="https://img.shields.io/badge/-GitHub-%23121011?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
@@ -165,14 +165,6 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 </p>
 
 ---
----
-
-### Frameworks & Tools  
-![Django](https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=white)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)  
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)  
-
 ---
 
 
