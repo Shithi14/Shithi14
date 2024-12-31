@@ -60,13 +60,6 @@
 ---
 
 
-## ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Shithi14)  
-## ![GitHub followers](https://img.shields.io/github/followers/Shithi14?style=social)  
-## ![GitHub Stars](https://img.shields.io/github/stars/Shithi14?style=social)  
-
---
-
-
 ## 📊 **GitHub Stats**
 
 <details open> 
