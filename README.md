@@ -1,6 +1,6 @@
 ## Hi there 👋, I'm Shithi    
-###### 🎓 **Student** at Begum Rokeya University, Rangpur.  
-##### 🌟 ***Programmer | Innovator*** 
+#### 🎓 **Student** at Begum Rokeya University, Rangpur.  
+###### 🌟 ***Programmer | Innovator*** 
  
 <h1 align="center">Shithi Rani Roy</h1>
 
