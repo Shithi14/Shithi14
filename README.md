@@ -194,10 +194,12 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 ---
 
 
+
 ## 💥 Let's Build Something Amazing Together! 💥  
  #### ** I’m always eager to collaborate on innovative and challenging projects.**
 
 [![Collaborate](https://img.shields.io/badge/Collaborate-Open%20For%20Projects-yellow?style=flat-square)](https://github.com/Shithi14)
+
 
 ---
 
