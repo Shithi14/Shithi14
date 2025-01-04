@@ -30,6 +30,34 @@
 
  ---
 
+---
+<h2 align="left">⏳ Wakape Progress:</h2>
+
+<p align="center">
+  <a href="https://wakatime.com/@d2f21121-b2af-4a4a-8f96-9d5c51127518">
+    <img src="https://wakatime.com/badge/user/d2f21121-b2af-4a4a-8f96-9d5c51127518.svg" alt="Total time coded" style="width: 1000px; height: 150px;"/>
+  </a>
+</p>
+
+---
+
+<h2 align="left">⏱️ WakaTime Status:</h2>
+
+<p align="center" style="font-size: 40px;">
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=d2f21121-b2af-4a4a-8f96-9d5c51127518&layout=compact&theme=radical" width="1000" height="420" />
+  </a>
+</p>
+
+---
+
+<h2 align="left">🔢 Profile Views:</h2>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Shithi14&color=blue&style=for-the-badge" alt="Profile Views"
+    style="border-radius: 150%; height: 150px; width: 800px;">
+</p>
+---
 
 ### 🔗 Social Links
 
