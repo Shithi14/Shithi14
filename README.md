@@ -2,8 +2,7 @@
 ### 🎓 **Student** at Begum Rokeya University, Rangpur.   
 #### 🌟 ***Programmer | Innovator***  
  
-<h1 align="center">Shithi Rani Roy</h1> 
- 
+<h1 align="center" style="color:#FF5733;">Shithi Rani Roy</h1>
 ---
 
 
