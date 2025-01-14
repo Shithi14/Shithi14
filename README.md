@@ -14,7 +14,18 @@
 
 
 ---
+<p align="center">
+  <img src="https://via.placeholder.com/1600x400/000000/FFFFFF?text=Welcome+to+Shithi+Rani+Roy's+GitHub+Profile" alt="GitHub Banner" style="width:100%; border-radius:10px;">
+</p>
 
+<h2 align="center" style="color:#FFD700;"> 👩‍💻 Software Enthusiast | AI Innovator | ML Explorer 🚀 </h2>
+
+<p align="center">
+  🔹 Skilled in <span style="color: #FF4500;">Java</span>, <span style="color: #7FFF00;">Python</span>, and <span style="color: #00FA9A;">Machine Learning</span>.<br>
+  🔹 Focused on object detection projects and creating scalable AI-driven solutions.<br>
+  🔹 Passionate about integrating cutting-edge technologies into real-world applications.
+</p>
+---
 
 
 ## 💡 Skills & Expertise:
