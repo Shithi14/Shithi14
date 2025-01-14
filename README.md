@@ -14,14 +14,7 @@
 
 
 ---
-<p align="center">
-  <img src="https://via.placeholder.com/1600x400/000000/FFFFFF?text=Welcome+to+My+GitHub+Profile" alt="GitHub Banner" style="width:100%; border-radius:10px;"/>
-</p>
 
-<p align="center" style="color: #FFD700; font-size: 1.2rem;">
-  Software enthusiast with a passion for <span style="color: #FF4500;">Java</span>, <span style="color: #7FFF00;">Python</span>, and <span style="color: #00FA9A;">Machine Learning</span>. Currently working on object detection projects and exploring AI-driven solutions.
-</p>
----
 
 
 ## 💡 Skills & Expertise:
