@@ -14,8 +14,6 @@
 
 
 ---
-<p align="center"> <img src="https://via.placeholder.com/1600x400/6C63FF/FFFFFF?text=Welcome+to+Shithi+Rani+Roy's+GitHub" alt="Banner" style="border-radius:10px;"/> </p> <p align="center" style="font-size: 1.3rem; color: #FFD700; font-family: 'Arial', sans-serif;"> 🌟 <b>Software Enthusiast</b> passionate about <span style="color: #FF4500;">Java</span>, <span style="color: #7FFF00;">Python</span>, and <span style="color: #00FA9A;">Machine Learning</span>. 🚀 Focused on creating innovative solutions in **object detection** and **AI-driven technologies**. </p>
----
 
 
 ## 💡 Skills & Expertise:
