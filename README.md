@@ -7,6 +7,7 @@
 
 --- 
 
+
 ![Programmer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 <p align="center" style="color: #FFD700; font-size: 1.2rem;">
