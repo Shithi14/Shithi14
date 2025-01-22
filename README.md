@@ -159,6 +159,21 @@ A collection of machine learning models covering **classification**, **regressio
 A repository of commonly used algorithms in **Java** for efficient problem-solving.
 
 ---
+## 📓 Key Projects
+
+### 🔍 [Object Detection Project](https://github.com/Shithi14/Object-Detection)
+
+A cutting-edge object detection system built using **TensorFlow** and **Python**. Explore how AI can be used to detect and classify objects in real-time.
+
+### 🧪 [Machine Learning Models](https://github.com/Shithi14/Machine-Learning-Models)
+
+A collection of machine learning models covering **classification**, **regression**, and **reinforcement learning**.
+
+### 💻 [Java Algorithms](https://github.com/Shithi14/Java-Algorithms)
+
+A repository of commonly used algorithms in **Java** for efficient problem-solving.
+---
+
 
 
 <details open> 
