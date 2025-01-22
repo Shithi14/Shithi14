@@ -143,10 +143,6 @@
 
 
 
-
-
-
----
 ## 📓 Key Projects
 
 ### 🔍 [Object Detection Project](https://github.com/Shithi14/Object-Detection)
