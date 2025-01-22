@@ -145,13 +145,6 @@
 
 
 
-### 🧠 [Machine Learning Models](https://github.com/Shithi14/Machine-Learning-Models)
-
-A collection of machine learning models covering **classification**, **regression**, and **reinforcement learning**.
-
-### 💻 [Java Algorithms](https://github.com/Shithi14/Java-Algorithms)
-
-A repository of commonly used algorithms in **Java** for efficient problem-solving.
 
 ---
 ## 📓 Key Projects
