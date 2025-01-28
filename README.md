@@ -281,19 +281,3 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 ######  <h1 align="center" style="color:#FF5733;">🚀 Thanks for visiting my GitHub profile! 🚀</h1>
 
 
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&theme=tokyonight" alt="Shithi's GitHub stats" />
-</p>
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Shithi14&theme=tokyonight" alt="GitHub Streak" />
-</p>
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shithi14&theme=tokyonight" alt="Profile Details" />
-</p>
-
-
-
-
