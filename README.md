@@ -180,7 +180,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ---
 
-<details open style="background-color: #f0f8ff; padding: 15px; border-radius: 10px; box-shadow: 0px 4px 15px rgba(0, 0, 0, 0.2);">
+<details open style="background-color: #e6f7ff; padding: 10px; border-radius: 10px;">
   <summary style="font-size: 1.5rem; color: #ff6347; font-weight: bold;">📌 **Profile Details**</summary> 
   <br/>
   <p align="center">
