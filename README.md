@@ -22,7 +22,6 @@
 
 ## 💡 Skills & Expertise:
 
-- **Java**: Developing scalable, enterprise-grade solu
 
 
 ---
