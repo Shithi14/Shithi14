@@ -22,8 +22,6 @@
 
 ## 💡 Skills & Expertise:
 
-
-- **Python**: Mastering automation, data science, and AI applications.
 - **Java**: Developing scalable, enterprise-grade solutions.
 
 
