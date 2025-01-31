@@ -131,7 +131,7 @@
   <p align="center"> 
     <a href="https://github.com/Shithi14"> 
       <img alt="Shithi's GitHub Stats" 
-           src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&hide_border=true&bg_color=200122,6f0000&title_color=ffcc00&text_color=ff6b6b&icon_color=ff9900" 
+           src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&hide_border=true&bg_color=002f4b,005f73&title_color=00a8cc&text_color=7fffd4&icon_color=40e0d0" 
            height="195px"
       /> 
     </a> 
