@@ -131,13 +131,12 @@
   <p align="center"> 
     <a href="https://github.com/Shithi14"> 
       <img alt="Shithi's GitHub Stats" 
-           src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&hide_border=true&bg_color=220044,ff00ff&title_color=ff44ff&text_color=ffccff&icon_color=ff1493" 
+           src="https://github-readme-stats.vercel.app/api?username=Shithi14&show_icons=true&count_private=true&hide_border=true&bg_color=fff9c4,ffccbc&title_color=ff7043&text_color=ffab91&icon_color=ff5722" 
            height="195px"
       /> 
     </a> 
   </p> 
 </details>
-
 
 
 
