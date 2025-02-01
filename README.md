@@ -105,23 +105,6 @@
 
 
 ---
-## 🏆 GitHub Achievements 🚀✨
-
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Shithi14&theme=dracula&column=8&margin-w=10&margin-h=10&no-bg=true&no-frame=true&rank=SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies">
-  </a>
-</p>
-
-🔥 **Mastering the Art of Open Source Contribution!** 🔥  
-
-🎯 **Highlights:**  
-✅ **Elegant Theme:** `Dracula` (Dark & Futuristic)  
-✅ **Expanded Columns:** `8` (More trophies in one row)  
-✅ **Optimized Spacing:** `10px` margin for a clean layout  
-✅ **Ranks Displayed:** `SSS, SS, S, AAA, AA, A, B, C` (Only top achievements)  
-✅ **Sleek Design:** No background & frame for a minimalistic touch  
----
 
 
 
