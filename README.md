@@ -168,7 +168,7 @@ A cutting-edge object detection system built using **TensorFlow** and **Python**
 
 A collection of machine learning models covering **classification**, **regression**, and **reinforcement learning**.
 
-### 💻 [Java Algorithms](https://github.com/Shithi14/Java-Algorithms)
+#### 💻 [Java Algorithms](https://github.com/Shithi14/Java-Algorithms)
 
 A repository of commonly used algorithms in **Java** for efficient problem-solving.
 
