@@ -39,7 +39,7 @@
 
 
 
-## 🌟  GitHub Streak 
+### 🌟  GitHub Streak 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Shithi14&theme=highcontrast&fire=FF4500&ring=FFD700&currStreakLabel=FFA500&sideLabels=FFD700&background=141E30,243B55&hide_border=true" alt="🔥 GitHub Streak" width="900" style="height: 400px; object-fit: cover; border: 2px solid #FF4500;"/>
   <br/>
 
@@ -269,7 +269,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 
 ## 💥 Let's Build Something Amazing Together! 💥  
- #### ** I’m always eager to collaborate on innovative and challenging projects.**
+ ##### ** I’m always eager to collaborate on innovative and challenging projects.**
 
 [![Collaborate](https://img.shields.io/badge/Collaborate-Open%20For%20Projects-yellow?style=flat-square)](https://github.com/Shithi14)
 
