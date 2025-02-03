@@ -202,7 +202,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 
 <details open> 
-  <summary>⚡️ Recent GitHub Activity**</summary> 
+  <summary>⚡️ Recent GitHub Activity</summary> 
   <br/>
   <p align="center">
     <a href="https://github-readme-activity-graph.vercel.app/graph?username=Shithi14&bg_color=0D1117&color=58A6FF&line=F85D7F&point=FFFFFF&hide_border=true">
