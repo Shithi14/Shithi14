@@ -255,7 +255,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 ---
 
 
-## 🌐 **Useful Resources**
+## 🌐 Useful Resources**
 
 - [Visit my CodeChef profile](https://www.codechef.com/users/cse12105009bru)  
 - [Check out my Codeforces profile](https://codeforces.com/profile/SHITHIROY)  
