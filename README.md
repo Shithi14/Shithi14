@@ -244,7 +244,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 
 
-## 📢 Connect With Me**
+## 📢 Connect With Me
 
 
 - 📧 Email: [cse12105009brur@gmail.com](mailto:cse12105009brur@gmail.com)
