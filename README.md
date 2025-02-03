@@ -272,7 +272,59 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 ---
 
      
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Shithi14/Shithi14/main/logo.png" alt="Shithi14 Logo" width="150"/>
+</p>
 
+## 🚀 Explore My Coding Profiles  
+
+🌟 **Competitive Programming & Problem Solving:**  
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.geeksforgeeks.org/user/neelambaufmy/">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" width="50"/><br>
+        <b>GeeksforGeeks</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.codechef.com/users/cse12105009bru">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/1/12/C_Chef_logo.svg" width="50"/><br>
+        <b>CodeChef</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://judge.beecrowd.com/en/profile/820669">
+        <img src="https://judge.beecrowd.com/favicon.ico" width="50"/><br>
+        <b>BeeCrowd</b>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://codeforces.com/profile/SHITHIROY">
+        <img src="https://sta.codeforces.com/s/85938/images/codeforces-sponsored-by-ton.png" width="100"/><br>
+        <b>Codeforces</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://dimikoj.com/profile/o523?shithirani">
+        <img src="https://dimikoj.com/favicon.ico" width="50"/><br>
+        <b>DimikOJ</b>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://toph.co/u/cse12105009brur">
+        <img src="https://toph.co/static/images/toph-brand.png" width="100"/><br>
+        <b>Toph</b>
+      </a>
+    </td>
+  </tr>
+</table>
+
+📌 *Passionate about problem-solving, coding challenges, and continuous learning!* 💡  
+---
 
 
 ## 💥 Let's Build Something Amazing Together! 💥  
