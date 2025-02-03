@@ -259,12 +259,12 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ## 🌐 Useful Resources
 
-- [Visit my CodeChef profile](https://www.codechef.com/users/cse12105009bru)  
-- [Check out my Codeforces profile](https://codeforces.com/profile/SHITHIROY)  
-- [Explore my profile on Dimikoj](https://dimikoj.com/profile/o523?shithirani)  
-- [View my GeeksforGeeks profile](https://www.geeksforgeeks.org/user/neelambaufmy/)  
-- [Check out my profile on BeeCrowd](https://judge.beecrowd.com/en/profile/820669)  
-- [Explore my Toph profile](https://toph.co/u/cse12105009brur)
+🔹 [Visit my CodeChef profile](https://www.codechef.com/users/cse12105009bru)  
+🔹 [Check out my Codeforces profile](https://codeforces.com/profile/SHITHIROY)  
+🔹 [Explore my profile on Dimikoj](https://dimikoj.com/profile/o523?shithirani)  
+🔹 [View my GeeksforGeeks profile](https://www.geeksforgeeks.org/user/neelambaufmy/)  
+🔹 [Check out my profile on BeeCrowd](https://judge.beecrowd.com/en/profile/820669)  
+🔹 [Explore my **updated** Toph profile](https://toph.co/u/cse12105009brur) ✅  
 
 
 
