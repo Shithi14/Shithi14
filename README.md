@@ -126,7 +126,7 @@
 ## 📊 GitHub Stats
 
 <details open> 
-  <summary>💻 **GitHub Profile Stats**</summary> 
+  <summary>💻 GitHub Profile Stats</summary> 
   <br/> 
   <p align="center"> 
     <a href="https://github.com/Shithi14"> 
@@ -140,13 +140,26 @@
 
 ---
 
-
+<div>
+<a href="http://www.github.com/Shithi14">
+    <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shithi14&theme=tokyonight" />
+</a>
+<a href="http://www.github.com/Shithi14">
+    <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Shithi14&theme=tokyonight" />
+</a>
+<a href="http://www.github.com/Shithi14">
+    <img width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shithi14&theme=tokyonight" />
+</a>
+<a href="http://www.github.com/Shithi14">
+    <img align="right" width="47%" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Shithi14&theme=tokyonight&utcOffset=8" />
+</a>
+</div>
 
 
 ## 🌐 Top Languages
 
 <details open> 
-  <summary style="font-size: 1.5rem; color: #ff4500; font-weight: bold;">🖋 **Languages Used**</summary> 
+  <summary style="font-size: 1.5rem; color: #ff4500; font-weight: bold;">🖋 Languages Used</summary> 
   <br/> 
   <p align="center"> 
     <a href="https://github.com/Shithi14"> 
@@ -188,7 +201,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 
 <details open> 
-  <summary style="font-size: 1.5rem; color: #ff6347; font-weight: bold;">📌 **Profile Details**</summary> 
+  <summary style="font-size: 1.5rem; color: #ff6347; font-weight: bold;">📌 Profile Details</summary> 
   <br/>
   <p align="center">
     <a href="https://github.com/Shithi14">
@@ -279,7 +292,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 
 ## 💥 Let's Build Something Amazing Together! 💥  
- ##### ** I’m always eager to collaborate on innovative and challenging projects.**
+ #####  I’m always eager to collaborate on innovative and challenging projects.
 
 [![Collaborate](https://img.shields.io/badge/Collaborate-Open%20For%20Projects-yellow?style=flat-square)](https://github.com/Shithi14)
 
@@ -291,7 +304,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 
 
-## 💡 **Technologies & Tools I Use**
+## 💡 Technologies & Tools I Use
 
 <p align="center">
   <img alt="Java" src="https://img.shields.io/badge/Java-%23F8B40A.svg?&style=for-the-badge&logo=java&logoColor=white&color=black" />
