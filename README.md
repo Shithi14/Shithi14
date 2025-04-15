@@ -58,6 +58,7 @@
     <img src="https://wakatime.com/badge/user/d2f21121-b2af-4a4a-8f96-9d5c51127518.svg" alt="Total time coded" style="width: 1000px; height: 150px; background-color: #f0f0f0; color: #333;"/>
   </a>
 </p>
+ 
 
 ---
 
