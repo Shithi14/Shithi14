@@ -62,6 +62,7 @@
 
 ---
 
+
 <h2 align="left">⏱️ WakaTime Status:</h2>
 
 <p align="center" style="font-size: 40px;">
