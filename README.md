@@ -248,7 +248,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 <!-- Single Line Animation -->
 <p align="center">
   <a href="https://github.com/Shithi14">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100000&color=FF5733&vCenter=true&width=1000&lines=🐍+Unveiling+My+GitHub+Journey!" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=100000&color=FF5733&vCenter=true&width=1000&lines=Unveiling+My+GitHub+Journey!" 
          alt="Contribution Snake Header">
   </a>
 </p>
@@ -256,7 +256,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 <!-- Combined Animation for Other Lines -->
 <p align="center">
   <a href="https://github.com/Shithi14">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Every+step+counts+in+the+journey+of+growth.;Here's+a+unique+way+to+visualize+my+efforts.;Watch+as+the+snake+makes+its+way+through+my+contributions!+👉" 
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=FFD700&vCenter=true&width=1000&lines=Every+step+counts+in+the+journey+of+growth.;Here's+a+unique+way+to+visualize+my+efforts.;Watch+as+the+snake+makes+its+way+through+my+contributions!" 
          alt="Progress Animation">
   </a>
 </p>
