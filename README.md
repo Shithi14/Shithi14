@@ -1,6 +1,4 @@
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
-                                                                                                                                                                                             
-       
+                                                                                                              
 # Hi there 👋, I'm Shithi               
 ### 🎓 **Student** at Begum Rokeya University, Rangpur.      
 #### 🌟 ***Programmer | Innovator***    
@@ -121,16 +119,18 @@
 
 ## 🏆 GitHub Achievements
 
+
+<!-- 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=Shithi14&theme=monokai&column=5&margin-w=25&margin-h=25&bg_color=282c34" alt="GitHub Trophies">
   </a>
 </p>
 
-
-
-
 ---
+
+-->
+
 
 
 <!--
@@ -231,8 +231,7 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 ---
 
-
-
+<!-- 
 <details open> 
   <summary>⚡️ Recent GitHub Activity</summary> 
   <br/>
@@ -246,6 +245,9 @@ A repository of commonly used algorithms in **Java** for efficient problem-solvi
 
 
 ---
+
+-->
+
 
 <!-- Single Line Animation -->
 <p align="center">
